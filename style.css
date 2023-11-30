@@ -98,6 +98,11 @@ body * {
   border: 1px solid var(--stroke-color);
   border-radius: 9999px;
   }
+
+  #switch button:hover{
+    outline: 8px solid var(--highlight-color)
+
+  } 
 /*links */
 
 ul {
@@ -144,6 +149,7 @@ ul li a:hover {
 }
 #social-links a:hover {
   background: var(--highlight-color);
+
 }
 
 footer {
