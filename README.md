@@ -18,7 +18,7 @@ Linktree feito para Portfólio. <br/>
 <br>
 
 <p align="center">
-  <img alt="Linktree" src=".github/preview linktree.jpg" width="100%">
+  <img alt="Linktree" src=".github/preview linktree.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
