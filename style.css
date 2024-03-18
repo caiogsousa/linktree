@@ -90,20 +90,7 @@ body * {
   animation: slide-in .3s forwards;
  }
 
- #maps {
-  width: 100%;
-  height: 100%;
-  border: none;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
-  padding: 0;
-  }
 
-#endereco {
-  text-align: center;
-}
 
  #switch span {
   display: block;
